@@ -1,0 +1,19 @@
+/* styles.css */
+p{
+    background-color: rgb(255, 200, 200);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.ayri {
+    font-size: 24px;
+
+}
+.klasse{
+    color: rgb(20,20,255);
+    font-size: 36px;
+
+}
+.klasse2{
+    background-color: rgb(20,255,20);
+    font-size: 24px;
+    font-weight: bold;
+}
